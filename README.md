@@ -2,7 +2,7 @@
 
 ## To Use
 
-For now we will only be serving from GitHub
+For now we will only be serving from GitHub  
 `npm install --save-dev https://github.com/easily-amused/ea-js-packages`
 
 ## To Isntall & Contribute
